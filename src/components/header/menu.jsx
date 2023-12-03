@@ -28,7 +28,6 @@ export default function AccountMenu() {
 
   return (
     <>
-      {/* <Avatar sx={{ width: 32, height: 32 }} onClick={handleClick}>M</Avatar> */}
       <Img onClick={handleClick}><img style={{ borderRadius: "50%" }} src={avatar} alt="avatar" /></Img>
       <Menu
         anchorEl={anchorEl}

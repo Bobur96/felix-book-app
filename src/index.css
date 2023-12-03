@@ -117,9 +117,12 @@ code {
   text-transform: capitalize !important;
 }
 
-.css-1wc848c-MuiFormHelperText-root.Mui-error {
+.Mui-error {
   display: none !important;
 }
-.css-6hp17o-MuiList-root-MuiMenu-list {
+.css-v7esy.Mui-error {
+  display: none !important;
+}
+.css-6hp17o-MuiList-root-MuiMenu-list, .css-r8u8y9 {
   display: grid !important;
 }

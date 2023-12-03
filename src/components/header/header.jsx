@@ -53,7 +53,6 @@ const Header = ({setSearch, setLoad}) => {
           <img src={bell} alt="bell" />
           <Badge />
         </Bell>
-        {/* <Img><img style={{ borderRadius: "50%" }} src={avatar} alt="avatar" /></Img> */}
         <AccountMenu/>
       </AuthorGroup>
     </Content>
